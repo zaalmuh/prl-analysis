@@ -16,19 +16,30 @@ pip install -r requirements.txt
 jupyter notebook notebooks/PCA_Cervix_Cancer_Inc.ipynb
 ```
 
-## Hasil
+ ## Hasil
+  Ringkasan temuan (detail lengkap: [Laporan PRL](results/Laporan%20PRL_Muhammad%20Aliza%20Mudrikah.pdf)):
+
+  - **Pengelompokan:** Pembagian dua kelompok (median) memisahkan negara ASR rendah dan tinggi lebih baik daripada empat kelompok
+  (kuartil), baik pada plot PCA maupun nilai F ANOVA.
+  - **PCA:** PC1 didominasi fertility rate, GDP per kapita, dan konsumsi babi. Plot 2D masih tumpang-tindih, plot 3D (PC1–PC3) lebih terpisah.
+  - **ANOVA (α = 0,05, dua kelompok):** Semua fitur signifikan kecuali konsumsi domba/kambing.
+
+  | Fitur | F-value | p-value |
+  |---|---|---|
+  | Fertility rate | 45,46 | 7,3e-10 |
+  | GDP per kapita | 40,87 | 4,0e-09 |
+  | Babi | 28,96 | 4,2e-07 |
+  | Garam | 26,13 | 1,3e-06 |
+
+  - **Kesimpulan:** Fertility rate, GDP per kapita, dan pola konsumsi berasosiasi secara statistik dengan tingkat ASR insiden kanker serviks antarnegara.
 
 
-## Keterbatasan
-- Analisis antarnegara pada satu potret waktu; tahun data berbeda-beda.
-- Menunjukkan korelasi antarkelompok, bukan hubungan sebab-akibat.
-- Belum ada model prediktif atau validasi.
-
-## Kontributor Data
+## Kontributor Data dan Analisis
 - Devin Syarazan, S.Si.
 - Khalishia Fira Haninda, S.Si.
 - Vira Rahmawati, S.Si.
 - Muhammad Dafi Rayhan Haryadi, S.Si.
 - Muhammad Aliza Mudrikah, S.Si.
+- Syahril Siregar, Ph.D. (Supervisor)
 
 ## Lisensi dan sitasi
