@@ -44,8 +44,8 @@ jupyter notebook notebooks/PCA_Cervix_Cancer_Inc.ipynb
 
 ## Lisensi dan sitasi
 Jika hendak menggunakan proyek ini, silakan sitasi:
-'''
-    @article{aliza2025unet,
+'''bibtex
+    @article{aliza204prl,
   title     = {ANALISIS AGE-STANDARDIZED RATE INSIDEN
 KANKER SERVIKS BERDASARKAN FERTILITY RATE,
 GDP, DAN POLA KONSUMSI DI BERBAGAI NEGARA
