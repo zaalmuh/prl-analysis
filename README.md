@@ -42,10 +42,10 @@ jupyter notebook notebooks/PCA_Cervix_Cancer_Inc.ipynb
 - Muhammad Aliza Mudrikah, S.Si.
 - Syahril Siregar, Ph.D. (Supervisor)
 
-## Lisensi dan sitasi
+## Sitasi
 Jika hendak menggunakan proyek ini, silakan sitasi:
-'''bibtex
-    @article{aliza204prl,
+```bibtex
+@article{aliza204prl,
   title     = {ANALISIS AGE-STANDARDIZED RATE INSIDEN
 KANKER SERVIKS BERDASARKAN FERTILITY RATE,
 GDP, DAN POLA KONSUMSI DI BERBAGAI NEGARA
@@ -55,4 +55,7 @@ DENGAN METODE STATISTIKA MULTIVARIAT},
   school    = {Universitas Indonesia},
   type      = {Article}
 }
-'''
+```
+
+## License
+Proyek ini dibagikan sebagai referensi akademik. Silakan kontak penulis untuk penggunaan ulang.
