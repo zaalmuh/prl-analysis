@@ -43,7 +43,7 @@ jupyter notebook notebooks/PCA_Cervix_Cancer_Inc.ipynb
 - Syahril Siregar, Ph.D. (Supervisor)
 
 ## Sitasi
-Jika hendak menggunakan proyek ini, silakan sitasi:
+Jika hendak melakukan sitasi terhadap artikel, silakan gunakan:
 ```bibtex
 @article{aliza204prl,
   title     = {ANALISIS AGE-STANDARDIZED RATE INSIDEN
