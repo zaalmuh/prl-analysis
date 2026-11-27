@@ -39,7 +39,7 @@ jupyter notebook notebooks/PCA_Cervix_Cancer_Inc.ipynb
 - Khalishia Fira Haninda, S.Si.
 - Vira Rahmawati, S.Si.
 - Muhammad Dafi Rayhan Haryadi, S.Si.
-- Muhammad Aliza Mudrikah, S.Si.
+- Muhammad Aliza Mudrikah, S.Si. (Penulis Artikel)
 - Syahril Siregar, Ph.D. (Supervisor)
 
 ## Sitasi
